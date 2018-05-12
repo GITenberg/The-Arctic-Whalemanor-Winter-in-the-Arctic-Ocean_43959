@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '42500'
     url: http://www.gutenberg.org/2009/agents/42500
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43959#The-Arctic-Whalemanor-Winter-in-the-Arctic-Ocean
 gutenberg_issued: '2013-10-15'
 gutenberg_type: Text
 identifiers:
